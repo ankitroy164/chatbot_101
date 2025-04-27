@@ -53,6 +53,7 @@ The goal was to create a lightweight, interactive chat interface powered by an L
 - Allow model selection dynamically from the UI.
 - Improve conversation memory (e.g., summarizing long histories).
 - Retain all history as PDF
+- Implement RAG
 
 ---
 
